@@ -4,4 +4,4 @@
 2. advanced analytics, Python/Pandas
 3. early stage datra science experiences
 4. cloud infrustructures (Cloud 9 IDE)
-5. 5. supervised machine learning
+5. supervised machine learning
